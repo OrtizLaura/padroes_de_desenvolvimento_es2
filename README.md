@@ -259,7 +259,7 @@ Cada estratégia é isolada, tornando os testes mais simples.
 5. Baixo Acoplamento:
 A classe principal (ECommerceShoppingCart) não contém lógica de desconto, apenas delega a tarefa à estratégia injetada.
 
-# Padrão Stages
+# Padrão State
 
 O padrão State é um dos padrões comportamentais que permite que um objeto altere seu comportamento com base no estado interno, sem modificar sua classe principal.
 
