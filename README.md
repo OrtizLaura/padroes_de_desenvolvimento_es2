@@ -1,3 +1,8 @@
+# Integrantes
+Alexandre Seyffert, Laura Ortiz
+
+## Link vídeo de apresentação: https://www.youtube.com/watch?v=GzFrOq_4vr0
+
 # Padrões de Desenvolvimento
 
 Padrões de desenvolvimento são soluções genéricas e reutilizáveis para problemas comuns no design de software. Eles ajudam a criar código mais modular, flexível e de fácil manutenção.
